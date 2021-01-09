@@ -26,3 +26,8 @@ d. OTA can be performed using Firmware update </BR>
 
 <img src="./Completed_HW_Setup.jpg" width="400px" height="auto">
 <img src="./PCB_Layout.jpg" width="800px" height="auto">
+</BR>
+I am giving this source to everyone for improving our day to day life. </BR>
+Special thanks to my family wife and kids for cooperating while doing this activity during 2020 year end. </BR>
+
+Contact me in my email hariharan@svaasya.com to provide your feedback and improvements. Put in your issues or improvements in this repo.</BR>
