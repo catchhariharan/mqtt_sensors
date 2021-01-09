@@ -23,3 +23,4 @@ Components used:
 4. Push button and 10K resistor
 
 <img src="./Completed_HW_Setup.jpg" width="400px" height="auto">
+<img src="./PCB_Layout.jpg" width="800px" height="auto">
