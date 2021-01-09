@@ -22,3 +22,4 @@ Components used:
 3. MQ2 
 4. Push button and 10K resistor
 
+<img src="./Completed_HW_Setupe.jpeg">
