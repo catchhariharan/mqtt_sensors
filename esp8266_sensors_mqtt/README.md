@@ -2,22 +2,23 @@ This IOT Project is Temperature monitoring system using MQTT and Publish to MQTT
 
 <B>Features of this project.</B>
 
-1. Customizable Wifi </BR>
+<B> 1. Customizable Wifi </B> </BR>
 
 a. Included Tzapu Wifi Manager to make this device portable. </BR>
 b. Device can be configured with push button (press > 3000ms) to re-start and configure new AP </BR>
 
-2. OTA </BR>
+<B> 2. OTA </B> </BR>
 
-Included hallard/EspMQTTClient, changed qos to 1. (file is local here) </BR>
-In browser type http://esp8266client.local </BR>
-Username is MQTT username and MQTT password </BR>
-OTA can be performed using Firmware update </BR>
-Modular design with different C++ files </BR>
+a. Included hallard/EspMQTTClient, changed qos to 1. (file is local here) </BR>
+b. In browser type http://esp8266client.local </BR>
+c. Username is MQTT username and MQTT password </BR>
+d. OTA can be performed using Firmware update </BR>
 
-3. Used Digital Ocean droplet (Installed Debian and installed Mosquitto MQTT broker, Nodered) One can use Ubuntu or any linux </BR>
+<B> 3. Modular design with different C++ files </B> </BR>
 
-4. Components used: </BR>
+<B> 4. Used Digital Ocean droplet (Installed Debian and installed Mosquitto MQTT broker, Nodered) One can use Ubuntu or any linux </B> </BR>
+
+<B> 4. Components used: </B> </BR>
 1. Esp8266 - 30 pin version
 2. DHT22 & 10K resistor (between Positive (+) and data pin (middle))
 3. MQ2 
