@@ -18,7 +18,7 @@ Features of this project.
 
 Components used:
 1. Esp8266 - 30 pin version
-2. DHT22 & 10K resistor
+2. DHT22 & 10K resistor (between Positive (+) and data pin (middle))
 3. MQ2 
 4. Push button and 10K resistor
 
