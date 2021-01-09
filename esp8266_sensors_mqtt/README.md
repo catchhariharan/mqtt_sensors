@@ -3,14 +3,20 @@ This IOT Project is Temperature monitoring system using MQTT and Publish to MQTT
 Features of this project.
 
 1. Customizable Wifi
+
 1.a. Included Tzapu Wifi Manager to make this device portable. 
 1.b. Device can be configured with push button (press > 3000ms) to re-start and configure new AP
 
 2. OTA
+
 2.a. Included hallard/EspMQTTClient, changed qos to 1. (file is local here)
+
 2.b. In browser type http://esp8266client.local 
+
 2.c. Username is MQTT username and MQTT password
+
 2.d. OTA can be performed using Firmware update
+
   
 3. Modular design with different C++ files
 
