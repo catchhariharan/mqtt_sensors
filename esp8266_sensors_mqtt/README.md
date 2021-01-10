@@ -13,6 +13,7 @@ a. Included hallard/EspMQTTClient, changed qos to 1. (file is local here) </BR>
 b. In browser type http://esp8266client.local </BR>
 c. Username is MQTT username and MQTT password </BR>
 d. OTA can be performed using Firmware update </BR>
+e. This files uses pubsubclient library </BR>
 
 <B> 3. Modular design with different C++ files </B> </BR>
 
